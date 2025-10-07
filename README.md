@@ -194,14 +194,6 @@ int rand_val = random(0, total);
 // Select state where cumulative_freq > rand_val
 ```
 
-## Applications & Extensions
-
-This implementation demonstrates Markov Chains in:
-- **Natural Language Processing** - Text generation, predictive typing
-- **Game Theory** - Strategy analysis, AI opponents
-- **Data Science** - Time series prediction, anomaly detection
-- **Music Generation** - Chord progressions, melody creation
-
 ## Educational Value
 
 This project covers key CS concepts:
@@ -224,5 +216,4 @@ Developed as part of the C Programming Workshop at Hebrew University of Jerusale
 This project is provided under the MIT License - see LICENSE file for details.
 
 ## Author
-
-Created as a portfolio project showcasing C programming and algorithm implementation skills.
+**Roei Asher**
